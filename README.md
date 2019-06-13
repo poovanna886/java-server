@@ -1,4 +1,4 @@
-# javaserver
+# java_server
 
 1. Multiple sellers and buyers
 2. Chat within the community or domain
